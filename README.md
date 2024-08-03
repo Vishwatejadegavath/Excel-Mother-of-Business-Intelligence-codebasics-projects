@@ -17,16 +17,16 @@ https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-code
     - Identify sales patterns and track key performance indicators (KPIs).
     
 - **Role of Reports:** 
-    - Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+    - Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
-## Finance Report 💰
+## Finance Report 🏦
 
 - **Project Objective:** 
     1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_p%26l_fy.pdf) & [Months](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_p%26l_fy.pdf).
     2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_p%26l_statements.pdf).
 
 - **Purpose of Finance Analytics:** 
-    - Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+    - Evaluation of financial performance, support decision-making and facilitate communication with stakeholders.
     
 - **Importance of Analyzing Finance Data:** 
     - Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
@@ -34,27 +34,27 @@ https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-code
 - **Role of Reports:** 
     - Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-## Project Priority Matrix in Excel 🎨
+## Project Priority Matrix in Excel 🎯
 
-- Developed a project priority matrix in Excel to effectively prioritize tasks based on urgency and importance.
+- Developed a project priority matrix in Excel to prioritize tasks based on urgency and importance.
 - Utilized conditional formatting and data validation to enhance visualization and user interaction.
 - Improved project management efficiency by providing a clear framework for task prioritization.
 - Enhanced team collaboration and decision-making by visualizing project priorities in a structured format.
-- Streamlined project workflows and resource allocation through the implementation of the priority matrix.
+- Streamlined project workflows and resource allocation by implementing the priority matrix.
 
 [Project Priority Matrix](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/Project%20Priority%20Matrix.pdf)
 
 ## Scenario Planning Tool 📈
 
 - Created a scenario planning tool in Excel to analyze various business scenarios and their potential impact on financial outcomes.
-- Integrated dynamic data tables and scenario analysis techniques to evaluate different business strategies.
+- Integrated dynamic data tables and scenario analysis techniques to evaluate various business strategies.
 - Facilitated strategic decision-making by providing insights into potential risks and opportunities.
 - Enhanced agility and resilience of the organization by enabling proactive planning for uncertain future events.
 - Improved stakeholder communication and alignment by visualizing the potential outcomes of different scenarios.
 
 [Scenario Planning Tool](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/Scenario%20Planning%20Tool.pdf)
 
-## Technical & Soft Skills 🛠️
+## Technical & Soft Skills ⚙️
 
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
