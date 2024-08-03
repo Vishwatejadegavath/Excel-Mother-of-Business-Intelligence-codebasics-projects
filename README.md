@@ -6,7 +6,7 @@ Welcome to the repository for the Projects and tools developed during my journey
 ## Sales Report 📊
 
 - **Project Objective:** 
-    1. Create a [customer performance report & Conduct a comprehensive comparison between market performance and sales targets](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasicsprojects/blob/main/AtliQ_netsales_customer_report.pdf).
+    1. Create a [customer performance report & Conduct a comprehensive comparison between market performance and sales targets](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_netsales_customer_report.pdf).
     2. create a [Top 10 Products, Division Level report, Top & bottom 5 products, New Products-2021 and Top 5 Country-2021](
 https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_sales_report_.pdf).
 
