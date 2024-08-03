@@ -36,21 +36,21 @@ https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-code
 
 ## Project Priority Matrix in Excel 🎯
 
-- Developed a project priority matrix in Excel to prioritize tasks based on urgency and importance.
-- Utilized conditional formatting and data validation to enhance visualization and user interaction.
+- Designed a project priority matrix in Excel to optimize project selection and resource allocation.
+- Utilized Excel formulas and conditional formatting to rank projects based on predefined criteria.
 - Improved project management efficiency by providing a clear framework for task prioritization.
 - Enhanced team collaboration and decision-making by visualizing project priorities in a structured format.
-- Streamlined project workflows and resource allocation by implementing the priority matrix.
+- Streamlined decision-making by providing a clear, data-driven overview of project priorities.
 
 [Project Priority Matrix](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/Project%20Priority%20Matrix.pdf)
 
 ## Scenario Planning Tool 📈
 
-- Created a scenario planning tool in Excel to analyze various business scenarios and their potential impact on financial outcomes.
-- Integrated dynamic data tables and scenario analysis techniques to evaluate various business strategies.
-- Facilitated strategic decision-making by providing insights into potential risks and opportunities.
+- Developed a comprehensive scenario planning tool in Excel for strategic decision-making.
+- Utilized advanced Excel functions and data visualization techniques for dynamic analysis.
+- Created an intuitive and interactive interface for easy user interaction and data input.
 - Enhanced agility and resilience of the organization by enabling proactive planning for uncertain future events.
-- Improved stakeholder communication and alignment by visualizing the potential outcomes of different scenarios.
+- Improved stakeholder communication and alignment by illustrating potential outcomes across various scenarios.
 
 [Scenario Planning Tool](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/Scenario%20Planning%20Tool.pdf)
 
