@@ -63,7 +63,7 @@ https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-code
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills 🧠
+## Soft Skills 🤝
 
 - [x]	Refined understanding of Sales & Finance Reports.
 - [x]	Designing user-centric reports with empathy in mind.
