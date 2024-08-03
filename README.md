@@ -6,8 +6,9 @@ Welcome to the repository for the Projects and tools developed during my journey
 ## Sales Report 📊
 
 - **Project Objective:** 
-    1. Create a [customer performance report & Conduct a comprehensive comparison between market performance and sales targets](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Sales_Analytics_Report.pdf).
-    2. create a [Top 10 Products, Division Level report, Top & bottom 5 products, New Products-2021 and Top 5 Country-2021](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Sales_Analytics_Report.pdf).
+    1. Create a [customer performance report & Conduct a comprehensive comparison between market performance and sales targets](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasicsprojects/blob/main/AtliQ_netsales_customer_report.pdf).
+    2. create a [Top 10 Products, Division Level report, Top & bottom 5 products, New Products-2021 and Top 5 Country-2021](
+https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_sales_report_.pdf).
 
 - **Purpose of Sales Analytics:** 
     - Empower businesses to monitor and evaluate their sales activities and performance.
@@ -21,8 +22,8 @@ Welcome to the repository for the Projects and tools developed during my journey
 ## Finance Report 💰
 
 - **Project Objective:** 
-    1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Finance_Analytics_Report.pdf) & [Months](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Finance_Analytics_Report.pdf).
-    2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Finance_Analytics_Assignment.pdf).
+    1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_p%26l_fy.pdf) & [Months](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_p%26l_fy.pdf).
+    2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/AtliQ_p%26l_statements.pdf).
 
 - **Purpose of Finance Analytics:** 
     - Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
@@ -41,7 +42,7 @@ Welcome to the repository for the Projects and tools developed during my journey
 - Enhanced team collaboration and decision-making by visualizing project priorities in a structured format.
 - Streamlined project workflows and resource allocation through the implementation of the priority matrix.
 
-[Project Priority Matrix](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/Project%20Priority%20Matrix.pdf)
+[Project Priority Matrix](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/Project%20Priority%20Matrix.pdf)
 
 ## Scenario Planning Tool 📈
 
@@ -51,7 +52,7 @@ Welcome to the repository for the Projects and tools developed during my journey
 - Enhanced agility and resilience of the organization by enabling proactive planning for uncertain future events.
 - Improved stakeholder communication and alignment by visualizing the potential outcomes of different scenarios.
 
-[Scenario Planning Tool](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/Scenario%20Planning%20Tool.pdf)
+[Scenario Planning Tool](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/Scenario%20Planning%20Tool.pdf)
 
 ## Technical & Soft Skills 🛠️
 
