@@ -54,7 +54,7 @@ https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-code
 
 [Scenario Planning Tool](https://github.com/Vishwatejadegavath/Excel-Mother-of-Business-Intelligence-codebasics-projects/blob/main/Scenario%20Planning%20Tool.pdf)
 
-## Technical & Soft Skills ⚙️
+## Technical & Soft Skills ⚒️
 
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
